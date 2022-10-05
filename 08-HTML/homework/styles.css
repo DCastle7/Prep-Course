@@ -1,0 +1,22 @@
+body{
+    background: url("https://st.depositphotos.com/3470617/4920/v/950/depositphotos_49203401-stock-illustration-pizza-background.jpg");
+}
+h1{
+    color: black;
+}
+img{
+    width: 400 px;
+    height: 400 px;
+}
+#thirdDiv{
+    height: 600 px;
+    width: 500 px;
+    background: black;
+    padding: 50 px;
+    border: 1 px;
+    border-color: black;
+}
+#spanId{
+    font-size: 18 px;
+    margin: 50 px;
+}
